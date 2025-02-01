@@ -1,0 +1,116 @@
+{
+  "League": {
+    "LeagueID": 105,
+    "LeagueName": "Andorra"
+  },
+  "WeeklyData": [
+    {
+      "Season": 78,
+      "Week": 4,
+      "League": {
+        "LeagueLevelUnitID": 238628,
+        "LeagueLevelUnitName": "IV.10"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683069,
+          "MatchType": 1,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 30,
+          "RatingRightDef": 31,
+          "RatingMidDef": 48,
+          "RatingLeftDef": 30,
+          "RatingRightAtt": 17,
+          "RatingMidAtt": 17,
+          "RatingLeftAtt": 14,
+          "TeamAttitude": 1,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 11
+        }
+      ],
+      "PowerRating": 678,
+      "FanclubSize": 1005,
+      "ArenaCapacity": 21074,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 442557848,
+          "Name": "Luboš Klouda",
+          "Age": 45,
+          "AgeDays": 7,
+          "TrainerType": 2,
+          "Leadership": 3,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Josh Wilson",
+            "StaffId": 2108532,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+
+          {
+            "Name": "Josep Pere Ferret",
+            "StaffId": 2171133,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+
+          {
+            "Name": "Roger Sabater",
+            "StaffId": 372558,
+            "StaffType": 2,
+            "StaffLevel": 3
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 1,
+          "Age": 18,
+          "AgeDays": 86,
+          "TSI": 15090,
+          "Salary": 1370,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 10,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 410644
+        }
+      ]
+    }
+  ],
+  "PlayerList": [
+    {
+      "PlayerID": 487367874,
+      "FirstName": "Antonio",
+      "NickName": "",
+      "LastName": "Zubieta",
+      "MotherClubBonus": true,
+      "IsAbroad": false,
+      "Agreeability": 2,
+      "Aggressiveness": 1,
+      "Honesty": 2,
+      "SpecialtyID": 0,
+      "CountryID": 36
+    }
+  ]
+}
