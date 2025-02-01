@@ -49,30 +49,23 @@
         },
         "StaffMembers": [
           {
-            "Name": "José Ulibarri",
-            "StaffId": 135190,
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
             "StaffType": 1,
             "StaffLevel": 5
           },
 
           {
-            "Name": "Ponç Vilajuliu",
-            "StaffId": 1549558,
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
             "StaffType": 1,
             "StaffLevel": 5
           },
 
           {
-            "Name": "José María Maestre Vargas",
-            "StaffId": 160777,
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
             "StaffType": 2,
-            "StaffLevel": 5
-          },
-
-          {
-            "Name": "Julio Miró",
-            "StaffId": 648121,
-            "StaffType": 6,
             "StaffLevel": 4
           }
         ]
