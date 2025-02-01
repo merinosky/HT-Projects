@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>App</title>
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.1.1/chart.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <script charset="utf-8" src="app.js"></script>
+    <link
+      id="favicon"
+      rel="icon"
+      type="image/x-icon"
+      href="/fhetoky-t75/favicon.ico"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <div class="cell" id="modelCell" hidden>
+      <h3>
+        <img class="flag" src="flags/transparent.gif" />
+        <a href="#">
+          <span class="player-number">0</span>.
+          <span class="player-name">Nadie</span></a
+        >
+        <img class="icon-injury" hidden src="img/injured.png" />
+        <span class="player-injury-level" hidden>1</span>
+        <img class="icon-cards" hidden src="img/cardsx1.png" />
+        <img class="icon-mother-club" hidden src="img/heart.png" />
+      </h3>
+      <div class="player-category float_right">DL</div>
+      <p>
+        Tiene nivel
+        <span class="player-experience player-value"
+          >nulo (<span class="ft-skill">0</span>)</span
+        >
+        en experiencia y liderazgo
+        <span class="player-leadership player-value"
+          >nulo (<span class="ft-skill">0</span>)</span
+        >. Tiene
+        <span class="player-loyalty player-value"
+          >nulo (<span class="ft-skill">0</span>)</span
+        >
+        fidelidad.
+      </p>
+      <div class="flex">
+        <div class="faceCard">
+          <img src="/fhetoky-t75/0.png" />
+        </div>
+        <div class="flex-grow playerInfo">
+          <div class="flex flex-space-between">
+            <div class="transferPlayerInformation">
+              <table>
+                <tbody>
+                  <tr>
+                    <td class="right">Edad</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="player-age">0</span> años y
+                      <span class="player-age-days">0</span> días
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">TSI</td>
+                    <td colspan="2">
+                      <span class="player-tsi">0</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Salario</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="player-salary">0</span> €/semana
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Especialidad</td>
+                    <td colspan="2">
+                      <img class="icon-speciality" src="" hidden />
+                      <span class="player-speciality">-</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Forma</td>
+                    <td class="nowrap player-form" style="padding-right: 2px">
+                      <div class="ht-bar" level="0" max="8" cap="-1" is-cap="0">
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div
+                          class="bar-level high"
+                          title="nulo"
+                          style="width: 0%"
+                        >
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                    <td style="width: 50px"></td>
+                  </tr>
+                  <tr>
+                    <td class="right">Resistencia</td>
+                    <td
+                      class="nowrap player-stamina"
+                      style="padding-right: 2px"
+                    >
+                      <div class="ht-bar" level="0" max="9" cap="-1" is-cap="0">
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                    <td style="width: 50px"></td>
+                  </tr>
+                  <tr>
+                    <td class="right nowrap">Valor estimado</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="player-estimated-value">0</span> €
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right nowrap">HTMS</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="player-htms">0</span> /
+                      <span class="player-htms28">0</span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="transferPlayerSkills">
+              <table>
+                <tbody>
+                  <tr>
+                    <td class="right">Portería</td>
+                    <td colspan="2">
+                      <div
+                        class="ht-bar"
+                        level="1"
+                        max="20"
+                        cap="-1"
+                        is-cap="0"
+                      >
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Defensa</td>
+                    <td colspan="2">
+                      <div
+                        class="ht-bar"
+                        level="0"
+                        max="20"
+                        cap="-1"
+                        is-cap="0"
+                      >
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Jugadas</td>
+                    <td colspan="2">
+                      <div
+                        class="ht-bar"
+                        level="0"
+                        max="20"
+                        cap="-1"
+                        is-cap="0"
+                      >
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Lateral</td>
+                    <td colspan="2">
+                      <div
+                        class="ht-bar"
+                        level="0"
+                        max="20"
+                        cap="-1"
+                        is-cap="0"
+                      >
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Pases</td>
+                    <td colspan="2">
+                      <div
+                        class="ht-bar"
+                        level="0"
+                        max="20"
+                        cap="-1"
+                        is-cap="0"
+                      >
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Anotación</td>
+                    <td colspan="2">
+                      <div
+                        class="ht-bar"
+                        level="0"
+                        max="20"
+                        cap="-1"
+                        is-cap="0"
+                      >
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Balón parado</td>
+                    <td colspan="2">
+                      <div
+                        class="ht-bar"
+                        level="0"
+                        max="20"
+                        cap="-1"
+                        is-cap="0"
+                      >
+                        <div class="bar-max" style="width: 100%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                        <div class="bar-level" title="nulo" style="width: 0%">
+                          <span class="bar-denomination">nulo</span>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrapper">
+      <div class="headerCell">
+        <h2>
+          <select id="project-folder" required>
+            <option value="fhetoky-t75" selected>Fhetoky T75</option>
+            <option value="llefia-t13">Llefià T13</option>
+            <option value="acracia-t0">Acracia T0</option>
+          </select>
+          <div class="playButtons">
+            <img class="first" src="img/first.png" /><img
+              class="back"
+              src="img/back.png"
+            /><img class="stop" src="img/stop.png" /><img
+              class="play"
+              src="img/play.png"
+            /><img class="fast" src="img/fast.png" /><img
+              class="next"
+              src="img/next.png"
+            /><img class="last" src="img/last.png" />
+          </div>
+          <span class="league-name">ninguna</span>. Temporada
+          <span class="season">0</span> Jornada
+          <span class="week">0</span>
+        </h2>
+
+        <div class="flex-grow">
+          <div class="flex flex-space-around">
+            <div class="aggregatedData">
+              <table>
+                <tbody>
+                  <tr>
+                    <td class="right">Jugadores</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-players">0</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">TSI</td>
+                    <td colspan="2">
+                      <span class="aggregated-tsi">0</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Valor</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-value">0</span> €
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right">Salarios</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-salary">0</span> €/semana
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right nowrap">HTMS</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-htms">0</span> /
+                      <span class="aggregated-htms28">0</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right nowrap">Aficionados</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-fanclub-size">0</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right nowrap">Estadio</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-arena-capacity">0</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right nowrap">Hatstats</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-hatstats">0</span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="right nowrap">Potencial</td>
+                    <td class="nowrap" colspan="2">
+                      <span class="aggregated-power-rating">0</span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="chart">
+              <canvas id="htstats"></canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="headerCell">
+        <div class="flex">
+          <div class="trainer">
+            <div class="faceCard">
+              <img src="/fhetoky-t75/0.png" />
+            </div>
+            <div class="skill"><img class="skill-level" /></div>
+            <h3>
+              <div class="trainer-name">Nadie</div>
+            </h3>
+            <div>
+              <span class="trainer-age">0</span>
+              años y
+              <span class="trainer-age-days">0</span> días
+            </div>
+            <div width="590px" style="margin-right: -590px">
+              Entrenador de carácter <span class="trainer-type">nulo</span>
+              y liderazgo
+              <span class="trainer-leadership player-value"
+                >nulo (<span class="ft-skill">0</span>)</span
+              >
+            </div>
+          </div>
+          <div class="staffList flex">
+            <div class="staff">
+              <div class="faceCard">
+                <img src="/fhetoky-t75/0.png" />
+              </div>
+              <div class="skill"><img class="skill-level" /></div>
+              <h3>
+                <div class="staff-name">Nadie</div>
+              </h3>
+            </div>
+            <div class="staff">
+              <div class="faceCard">
+                <img src="/fhetoky-t75/0.png" />
+              </div>
+              <div class="skill"><img class="skill-level" /></div>
+              <h3>
+                <div class="staff-name">Nadie</div>
+              </h3>
+            </div>
+            <div class="staff">
+              <div class="faceCard">
+                <img src="/fhetoky-t75/0.png" />
+              </div>
+              <div class="skill"><img class="skill-level" /></div>
+              <h3>
+                <div class="staff-name">Nadie</div>
+              </h3>
+            </div>
+            <div class="staff">
+              <div class="faceCard">
+                <img src="/fhetoky-t75/0.png" />
+              </div>
+              <div class="skill"><img class="skill-level" /></div>
+              <h3>
+                <div class="staff-name">Nadie</div>
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="headerCell">
+        <h3>
+          <div class="training-flex">
+            <div>
+              Semana <span class="training-number"></span>:
+              <span class="training-type"></span>
+            </div>
+            <div>Intensidad: <span class="training-level"></span>%</div>
+            <div>Resistencia: <span class="stamina-training-part"></span>%</div>
+          </div>
+        </h3>
+
+        <div class="training-chart">
+          <canvas id="training"></canvas>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
