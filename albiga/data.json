@@ -39,13 +39,13 @@
       "ArenaCapacity": 50000,
       "StaffList": {
         "Trainer": {
-          "TrainerId": 424219264,
-          "Name": "Liviu-Dorin Boghian",
+          "TrainerId": 486451242,
+          "Name": "Francisco Monroy",
           "Age": 41,
-          "AgeDays": 2,
+          "AgeDays": 54,
           "TrainerType": 2,
-          "Leadership": 6,
-          "TrainerSkillLevel": 5
+          "Leadership": 4,
+          "TrainerSkillLevel": 3
         },
         "StaffMembers": [
           {
