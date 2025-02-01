@@ -6,7 +6,7 @@
   "WeeklyData": [
     {
       "Season": 78,
-      "Week": 1,
+      "Week": 4,
       "League": {
         "LeagueLevelUnitID": 15042,
         "LeagueLevelUnitName": "VI.724"
@@ -18,7 +18,7 @@
       },
       "Matches": [
         {
-          "MatchID": 726916992,
+          "MatchID": 743683069,
           "MatchType": 1,
           "TacticType": 0,
           "TacticSkill": 0,
@@ -34,9 +34,9 @@
           "RatingIndirectSetPiecesAtt": 11
         }
       ],
-      "PowerRating": 768,
-      "FanclubSize": 1660,
-      "ArenaCapacity": 50000,
+      "PowerRating": 716,
+      "FanclubSize": 1060,
+      "ArenaCapacity": 16331,
       "StaffList": {
         "Trainer": {
           "TrainerId": 486451242,
