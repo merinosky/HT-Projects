@@ -72,45 +72,45 @@
       },
       "PlayerData": [
         {
-          "PlayerID": 487367874,
+          "PlayerID": 488567161,
           "PlayerNumber": 1,
-          "Age": 18,
-          "AgeDays": 86,
-          "TSI": 15090,
-          "Salary": 1370,
+          "Age": 17,
+          "AgeDays": 106,
+          "TSI": 11390,
+          "Salary": 990,
           "PlayerForm": 7,
-          "Experience": 2,
-          "Leadership": 3,
+          "Experience": 1,
+          "Leadership": 1,
           "Loyalty": 20,
           "Cards": 0,
           "InjuryLevel": -1,
-          "StaminaSkill": 6,
-          "KeeperSkill": 10,
+          "StaminaSkill": 7,
+          "KeeperSkill": 9,
           "PlaymakerSkill": 2,
           "ScorerSkill": 2,
           "PassingSkill": 2,
           "WingerSkill": 2,
-          "DefenderSkill": 2,
+          "DefenderSkill": 3,
           "SetPiecesSkill": 5,
           "PlayerCategoryId": 1,
-          "EstimatedValue": 410644
+          "EstimatedValue": 258598
         }
       ]
     }
   ],
   "PlayerList": [
     {
-      "PlayerID": 487367874,
-      "FirstName": "Antonio",
+      "PlayerID": 488567161,
+      "FirstName": "Stefano",
       "NickName": "",
-      "LastName": "Zubieta",
+      "LastName": "Morello",
       "MotherClubBonus": true,
       "IsAbroad": false,
-      "Agreeability": 2,
-      "Aggressiveness": 1,
+      "Agreeability": 4,
+      "Aggressiveness": 3,
       "Honesty": 2,
       "SpecialtyID": 0,
-      "CountryID": 36
+      "CountryID": 163
     }
   ]
 }
