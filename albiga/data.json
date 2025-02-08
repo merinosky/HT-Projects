@@ -6,7 +6,7 @@
   "WeeklyData": [
     {
       "Season": 78,
-      "Week": 4,
+      "Week": 5,
       "League": {
         "LeagueLevelUnitID": 15042,
         "LeagueLevelUnitName": "VI.724"
@@ -18,7 +18,7 @@
       },
       "Matches": [
         {
-          "MatchID": 743683069,
+          "MatchID": 743683073,
           "MatchType": 1,
           "TacticType": 0,
           "TacticSkill": 0,
@@ -34,8 +34,8 @@
           "RatingIndirectSetPiecesAtt": 11
         }
       ],
-      "PowerRating": 716,
-      "FanclubSize": 1060,
+      "PowerRating": 722,
+      "FanclubSize": 1086,
       "ArenaCapacity": 16331,
       "StaffList": {
         "Trainer": {
@@ -75,8 +75,8 @@
           "PlayerID": 487367874,
           "PlayerNumber": 1,
           "Age": 18,
-          "AgeDays": 86,
-          "TSI": 15090,
+          "AgeDays": 93,
+          "TSI": 16500,
           "Salary": 1370,
           "PlayerForm": 7,
           "Experience": 2,
@@ -94,6 +94,30 @@
           "SetPiecesSkill": 5,
           "PlayerCategoryId": 1,
           "EstimatedValue": 410644
+        },
+		{
+          "PlayerID": 360538300,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 23,
+          "TSI": 3770,
+          "Salary": 1330,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 4,
+          "KeeperSkill": 7,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 28164
         }
       ]
     }
@@ -108,6 +132,19 @@
       "IsAbroad": false,
       "Agreeability": 2,
       "Aggressiveness": 1,
+      "Honesty": 2,
+      "SpecialtyID": 0,
+      "CountryID": 36
+    },
+	{
+      "PlayerID": 360538300,
+      "FirstName": "Fortià",
+      "NickName": "",
+      "LastName": "Ull",
+      "MotherClubBonus": true,
+      "IsAbroad": false,
+      "Agreeability": 2,
+      "Aggressiveness": 3,
       "Honesty": 2,
       "SpecialtyID": 0,
       "CountryID": 36
