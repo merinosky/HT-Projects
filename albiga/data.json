@@ -164,6 +164,19 @@
       "Honesty": 2,
       "SpecialtyID": 0,
       "CountryID": 36
+    },
+	{
+      "PlayerID": 490343384,
+      "FirstName": "Kasildo",
+      "NickName": "",
+      "LastName": "Maisterra",
+      "MotherClubBonus": true,
+      "IsAbroad": false,
+      "Agreeability": 1,
+      "Aggressiveness": 3,
+      "Honesty": 2,
+      "SpecialtyID": 0,
+      "CountryID": 36
     }
   ]
 }
