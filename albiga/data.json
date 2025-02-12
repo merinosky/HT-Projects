@@ -36,18 +36,18 @@
 		{
           "MatchID": 746443149,
           "MatchType": 4,
-          "TacticType": 0,
-          "TacticSkill": 0,
-          "RatingMidfield": 22,
-          "RatingRightDef": 26,
-          "RatingMidDef": 30,
-          "RatingLeftDef": 26,
-          "RatingRightAtt": 10,
-          "RatingMidAtt": 16,
-          "RatingLeftAtt": 26,
+          "TacticType": 7,
+          "TacticSkill": 8,
+          "RatingMidfield": 15,
+          "RatingRightDef": 23,
+          "RatingMidDef": 26,
+          "RatingLeftDef": 22,
+          "RatingRightAtt": 12,
+          "RatingMidAtt": 10,
+          "RatingLeftAtt": 11,
           "TeamAttitude": 0,
-          "RatingIndirectSetPiecesDef": 20,
-          "RatingIndirectSetPiecesAtt": 17
+          "RatingIndirectSetPiecesDef": 19,
+          "RatingIndirectSetPiecesAtt": 16
         }
       ],
       "PowerRating": 722,
@@ -70,14 +70,12 @@
             "StaffType": 1,
             "StaffLevel": 5
           },
-
           {
             "Name": "Adrián Imbullusqueta",
             "StaffId": 2477919,
             "StaffType": 1,
             "StaffLevel": 5
           },
-
           {
             "Name": "Javier Marqués",
             "StaffId": 2596354,
