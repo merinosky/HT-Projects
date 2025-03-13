@@ -563,15 +563,15 @@
           "TacticType": 0,
           "TacticSkill": 0,
           "RatingMidfield": 17,
-          "RatingRightDef": 22,
-          "RatingMidDef": 24,
-          "RatingLeftDef": 25,
-          "RatingRightAtt": 11,
+          "RatingRightDef": 27,
+          "RatingMidDef": 32,
+          "RatingLeftDef": 29,
+          "RatingRightAtt": 13,
           "RatingMidAtt": 9,
-          "RatingLeftAtt": 11,
+          "RatingLeftAtt": 10,
           "TeamAttitude": 0,
-          "RatingIndirectSetPiecesDef": 18,
-          "RatingIndirectSetPiecesAtt": 14
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 16
         }
       ],
       "PowerRating": 719,
