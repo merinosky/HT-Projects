@@ -741,30 +741,30 @@
         },
         "PlayerData": [
           {
-            "PlayerID": 487367874,
+            "PlayerID": 490791154,
             "PlayerNumber": 1,
-            "Age": 19,
-            "AgeDays": 16,
-            "TSI": 24040,
-            "Salary": 5070,
-            "PlayerForm": 7,
-            "Experience": 2,
-            "Leadership": 3,
+            "Age": 17,
+            "AgeDays": 9,
+            "TSI": 3450,
+            "Salary": 1270,
+            "PlayerForm": 6,
+            "Experience": 1,
+            "Leadership": 5,
             "Loyalty": 20,
             "Cards": 0,
             "InjuryLevel": -1,
             "StaminaSkill": 6,
-            "KeeperSkill": 11,
-            "PlaymakerSkill": 2,
-            "ScorerSkill": 2,
+            "KeeperSkill": 7,
+            "PlaymakerSkill": 1,
+            "ScorerSkill": 1,
             "PassingSkill": 2,
-            "WingerSkill": 2,
-            "DefenderSkill": 2,
+            "WingerSkill": 1,
+            "DefenderSkill": 5,
             "SetPiecesSkill": 5,
             "PlayerCategoryId": 1,
-            "EstimatedValue": 857002
-          },
-      {
+            "EstimatedValue": 5000
+          }
+        {
             "PlayerID": 490343384,
             "PlayerNumber": 13,
             "Age": 17,
@@ -787,25 +787,49 @@
             "SetPiecesSkill": 2,
             "PlayerCategoryId": 1,
             "EstimatedValue": 260684
+          },
+          {
+            "PlayerID": 487367874,
+            "PlayerNumber": 21,
+            "Age": 19,
+            "AgeDays": 16,
+            "TSI": 24040,
+            "Salary": 5070,
+            "PlayerForm": 7,
+            "Experience": 2,
+            "Leadership": 3,
+            "Loyalty": 20,
+            "Cards": 0,
+            "InjuryLevel": -1,
+            "StaminaSkill": 6,
+            "KeeperSkill": 11,
+            "PlaymakerSkill": 2,
+            "ScorerSkill": 2,
+            "PassingSkill": 2,
+            "WingerSkill": 2,
+            "DefenderSkill": 2,
+            "SetPiecesSkill": 5,
+            "PlayerCategoryId": 1,
+            "EstimatedValue": 857002
           }
         ]
       }
   ],
   "PlayerList": [
     {
-      "PlayerID": 487367874,
-      "FirstName": "Antonio",
+      "PlayerID": 490791154,
+      "FirstName": "Kasildo",
       "NickName": "",
-      "LastName": "Zubieta",
+      "LastName": "Maisterra",
       "MotherClubBonus": true,
       "IsAbroad": false,
-      "Agreeability": 2,
-      "Aggressiveness": 1,
-      "Honesty": 2,
+      "Agreeability": 1,
+      "Aggressiveness": 3,
+      "Honesty": 1,
       "SpecialtyID": 0,
       "CountryID": 36
     },
-	{
+	  {
       "PlayerID": 490343384,
       "FirstName": "Fortià",
       "NickName": "",
@@ -818,15 +842,15 @@
       "SpecialtyID": 0,
       "CountryID": 36
     },
-	{
-      "PlayerID": 0,
-      "FirstName": "Kasildo",
+    {
+      "PlayerID": 487367874,
+      "FirstName": "Antonio",
       "NickName": "",
-      "LastName": "Maisterra",
+      "LastName": "Zubieta",
       "MotherClubBonus": true,
       "IsAbroad": false,
-      "Agreeability": 1,
-      "Aggressiveness": 3,
+      "Agreeability": 2,
+      "Aggressiveness": 1,
       "Honesty": 2,
       "SpecialtyID": 0,
       "CountryID": 36
