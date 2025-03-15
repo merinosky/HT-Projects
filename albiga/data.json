@@ -688,7 +688,7 @@
             "RatingIndirectSetPiecesDef": 20,
             "RatingIndirectSetPiecesAtt": 19
           },
-      {
+          {
             "MatchID": 746838828,
             "MatchType": 4,
             "TacticType": 0,
@@ -763,8 +763,8 @@
             "SetPiecesSkill": 5,
             "PlayerCategoryId": 1,
             "EstimatedValue": 5000
-          }
-        {
+          },
+          {
             "PlayerID": 490343384,
             "PlayerNumber": 13,
             "Age": 17,
