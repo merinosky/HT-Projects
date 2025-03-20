@@ -691,18 +691,18 @@
           {
             "MatchID": 746838828,
             "MatchType": 4,
-            "TacticType": 0,
-            "TacticSkill": 0,
-            "RatingMidfield": 17,
+            "TacticType": 1,
+            "TacticSkill": 6,
+            "RatingMidfield": 14,
             "RatingRightDef": 27,
-            "RatingMidDef": 32,
-            "RatingLeftDef": 29,
-            "RatingRightAtt": 13,
-            "RatingMidAtt": 9,
-            "RatingLeftAtt": 10,
+            "RatingMidDef": 26,
+            "RatingLeftDef": 24,
+            "RatingRightAtt": 8,
+            "RatingMidAtt": 4,
+            "RatingLeftAtt": 8,
             "TeamAttitude": 0,
-            "RatingIndirectSetPiecesDef": 21,
-            "RatingIndirectSetPiecesAtt": 16
+            "RatingIndirectSetPiecesDef": 18,
+            "RatingIndirectSetPiecesAtt": 15
           }
         ],
         "PowerRating": 714,
