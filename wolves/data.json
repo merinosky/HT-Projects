@@ -88,6 +88,30 @@
       },
       "PlayerData": [
         {
+          "PlayerID": 491047431,
+          "PlayerNumber": 2,
+          "Age": 17,
+          "AgeDays": 0,
+          "TSI": 820,
+          "Salary": 360,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 6,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 4,
+          "KeeperSkill": 1,
+          "PlaymakerSkill": 3,
+          "ScorerSkill": 4,
+          "PassingSkill": 3,
+          "WingerSkill": 6,
+          "DefenderSkill": 7,
+          "SetPiecesSkill": 1,
+          "PlayerCategoryId": 3,
+          "EstimatedValue": 1000
+        },
+        {
           "PlayerID": 491031170,
           "PlayerNumber": 3,
           "Age": 17,
@@ -187,6 +211,19 @@
     }
   ],
   "PlayerList": [
+    {
+      "PlayerID": 491047431,
+      "FirstName": "Hodei",
+      "NickName": "",
+      "LastName": "Ríos",
+      "MotherClubBonus": true,
+      "IsAbroad": false,
+      "Agreeability": 0,
+      "Aggressiveness": 4,
+      "Honesty": 2,
+      "SpecialtyID": 2,
+      "CountryID": 105
+    },
     {
       "PlayerID": 491031170,
       "FirstName": "Valerià",
