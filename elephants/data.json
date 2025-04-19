@@ -1,15 +1,15 @@
 {
   "League": {
-    "LeagueID": 163,
-    "LeagueName": "San Marino"
+    "LeagueID": 175,
+    "LeagueName": "Guinea Ecuatorial"
   },
   "WeeklyData": [
     {
-      "Season": 15,
-      "Week": 4,
+      "Season": 1,
+      "Week": 1,
       "League": {
-        "LeagueLevelUnitID": 258747,
-        "LeagueLevelUnitName": "IV.40"
+        "LeagueLevelUnitID": 268565,
+        "LeagueLevelUnitName": "IV.49"
       },
       "Training": {
         "TrainingLevel": 100,
@@ -34,9 +34,9 @@
           "RatingIndirectSetPiecesAtt": 11
         }
       ],
-      "PowerRating": 670,
-      "FanclubSize": 957,
-      "ArenaCapacity": 20715,
+      "PowerRating": 500,
+      "FanclubSize": 616,
+      "ArenaCapacity": 14100,
       "StaffList": {
         "Trainer": {
           "TrainerId": 185747052,
@@ -101,16 +101,16 @@
   "PlayerList": [
     {
       "PlayerID": 488567161,
-      "FirstName": "Stefano",
+      "FirstName": "TBD",
       "NickName": "",
-      "LastName": "Morello",
+      "LastName": "TBD",
       "MotherClubBonus": true,
       "IsAbroad": false,
-      "Agreeability": 4,
-      "Aggressiveness": 3,
-      "Honesty": 2,
+      "Agreeability": 0,
+      "Aggressiveness": 0,
+      "Honesty": 0,
       "SpecialtyID": 0,
-      "CountryID": 163
+      "CountryID": 175
     }
   ]
 }
