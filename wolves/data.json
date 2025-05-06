@@ -1460,28 +1460,28 @@
           "EstimatedValue": 82550
         },
         {
-          "PlayerID": 490236101,
+          "PlayerID": 491735434,
           "PlayerNumber": 6,
-          "Age": 19,
-          "AgeDays": 18,
-          "TSI": 2150,
-          "Salary": 456,
-          "PlayerForm": 5,
+          "Age": 17,
+          "AgeDays": 0,
+          "TSI": 1090,
+          "Salary": 360,
+          "PlayerForm": 6,
           "Experience": 2,
           "Leadership": 3,
-          "Loyalty": 6,
+          "Loyalty": 2,
           "Cards": 0,
           "InjuryLevel": -1,
-          "StaminaSkill": 5,
-          "KeeperSkill": 2,
+          "StaminaSkill": 4,
+          "KeeperSkill": 1,
           "PlaymakerSkill": 4,
           "ScorerSkill": 2,
           "PassingSkill": 6,
-          "WingerSkill": 7,
-          "DefenderSkill": 6,
+          "WingerSkill": 3,
+          "DefenderSkill": 7,
           "SetPiecesSkill": 1,
-          "PlayerCategoryId": 2,
-          "EstimatedValue": 7050
+          "PlayerCategoryId": 3,
+          "EstimatedValue": 146330
         },
         {
           "PlayerID": 490536159,
@@ -1578,6 +1578,30 @@
           "SetPiecesSkill": 5,
           "PlayerCategoryId": 5,
           "EstimatedValue": 13946
+        },
+        {
+          "PlayerID": 490236101,
+          "PlayerNumber": 11,
+          "Age": 19,
+          "AgeDays": 18,
+          "TSI": 2150,
+          "Salary": 456,
+          "PlayerForm": 5,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 6,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 2,
+          "PlaymakerSkill": 4,
+          "ScorerSkill": 2,
+          "PassingSkill": 6,
+          "WingerSkill": 7,
+          "DefenderSkill": 6,
+          "SetPiecesSkill": 1,
+          "PlayerCategoryId": 2,
+          "EstimatedValue": 7050
         }
       ]
     }
@@ -1649,17 +1673,17 @@
       "CountryID": 105
     },
     {
-      "PlayerID": 490236101,
-      "FirstName": "Alexis",
+      "PlayerID": 491735434,
+      "FirstName": "Xisco",
       "NickName": "",
-      "LastName": "Flavio Robledo",
+      "LastName": "Pahissa",
       "MotherClubBonus": false,
-      "IsAbroad": true,
-      "Agreeability": 3,
-      "Aggressiveness": 3,
-      "Honesty": 1,
-      "SpecialtyID": 2,
-      "CountryID": 19
+      "IsAbroad": false,
+      "Agreeability": 2,
+      "Aggressiveness": 1,
+      "Honesty": 3,
+      "SpecialtyID": 1,
+      "CountryID": 105
     },
     {
       "PlayerID": 488910832,
@@ -1712,6 +1736,19 @@
       "Honesty": 0,
       "SpecialtyID": 3,
       "CountryID": 51
+    },
+    {
+      "PlayerID": 490236101,
+      "FirstName": "Alexis",
+      "NickName": "",
+      "LastName": "Flavio Robledo",
+      "MotherClubBonus": false,
+      "IsAbroad": true,
+      "Agreeability": 3,
+      "Aggressiveness": 3,
+      "Honesty": 1,
+      "SpecialtyID": 2,
+      "CountryID": 19
     }
   ]
 }
