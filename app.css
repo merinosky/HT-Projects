@@ -1,8 +1,5 @@
 body {
-  background-image: url("background.png");
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  background-image: #000  url("background.png") top left repeat;
   font-size: 13px;
   color: #000;
   font-family: Roboto, Verdana, Helvetica, Sans-Serif;
