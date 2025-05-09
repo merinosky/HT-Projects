@@ -1,5 +1,5 @@
 body {
-  background-image: #000  url("background.png") top left repeat;
+  background: #000  url("background.png") top left repeat;
   font-size: 13px;
   color: #000;
   font-family: Roboto, Verdana, Helvetica, Sans-Serif;
