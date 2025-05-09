@@ -1,5 +1,5 @@
 "use strict";
-var folder = "./fhetoky-t75/";
+var folder = "./albiga/";
 var chart;
 var trainingChart;
 const chartElements = 16;
