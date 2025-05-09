@@ -1896,7 +1896,7 @@
           "Leadership": 3,
           "Loyalty": 20,
           "Cards": 0,
-          "InjuryLevel": 1,
+          "InjuryLevel": -1,
           "StaminaSkill": 5,
           "KeeperSkill": 11,
           "PlaymakerSkill": 2,
