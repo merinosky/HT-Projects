@@ -1,0 +1,1955 @@
+{
+  "League": {
+    "LeagueID": 36,
+    "LeagueName": "España"
+  },
+  "WeeklyData": [
+    {
+      "Season": 78,
+      "Week": 5,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683073,
+          "MatchType": 1,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 22,
+          "RatingRightDef": 26,
+          "RatingMidDef": 30,
+          "RatingLeftDef": 26,
+          "RatingRightAtt": 10,
+          "RatingMidAtt": 16,
+          "RatingLeftAtt": 26,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 17
+        },
+        {
+          "MatchID": 746443149,
+          "MatchType": 4,
+          "TacticType": 7,
+          "TacticSkill": 8,
+          "RatingMidfield": 15,
+          "RatingRightDef": 23,
+          "RatingMidDef": 26,
+          "RatingLeftDef": 22,
+          "RatingRightAtt": 12,
+          "RatingMidAtt": 10,
+          "RatingLeftAtt": 11,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 19,
+          "RatingIndirectSetPiecesAtt": 16
+        }
+      ],
+      "PowerRating": 722,
+      "FanclubSize": 1086,
+      "ArenaCapacity": 16331,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 1,
+          "Age": 18,
+          "AgeDays": 93,
+          "TSI": 16500,
+          "Salary": 1370,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 10,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 410644
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 23,
+          "TSI": 3770,
+          "Salary": 1330,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 4,
+          "KeeperSkill": 7,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1500
+        }
+      ]
+    },
+	  {
+      "Season": 78,
+      "Week": 6,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683077,
+          "MatchType": 1,
+          "TacticType": 7,
+          "TacticSkill": 11,
+          "RatingMidfield": 16,
+          "RatingRightDef": 27,
+          "RatingMidDef": 26,
+          "RatingLeftDef": 26,
+          "RatingRightAtt": 17,
+          "RatingMidAtt": 18,
+          "RatingLeftAtt": 16,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 18
+        },
+		    {
+          "MatchID": 746524784,
+          "MatchType": 4,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 16,
+          "RatingRightDef": 25,
+          "RatingMidDef": 27,
+          "RatingLeftDef": 22,
+          "RatingRightAtt": 12,
+          "RatingMidAtt": 10,
+          "RatingLeftAtt": 11,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 19,
+          "RatingIndirectSetPiecesAtt": 16
+        }
+      ],
+      "PowerRating": 724,
+      "FanclubSize": 1102,
+      "ArenaCapacity": 16331,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 1,
+          "Age": 18,
+          "AgeDays": 100,
+          "TSI": 18030,
+          "Salary": 1370,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 410644
+        },
+		    {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 30,
+          "TSI": 4620,
+          "Salary": 1330,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 7,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1500
+        }
+      ]
+    },
+	  {
+      "Season": 78,
+      "Week": 7,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683081,
+          "MatchType": 1,
+          "TacticType": 7,
+          "TacticSkill": 11,
+          "RatingMidfield": 20,
+          "RatingRightDef": 28,
+          "RatingMidDef": 36,
+          "RatingLeftDef": 21,
+          "RatingRightAtt": 10,
+          "RatingMidAtt": 12,
+          "RatingLeftAtt": 11,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 17
+        },
+		    {
+          "MatchID": 746597655,
+          "MatchType": 4,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 13,
+          "RatingRightDef": 30,
+          "RatingMidDef": 36,
+          "RatingLeftDef": 28,
+          "RatingRightAtt": 12,
+          "RatingMidAtt": 9,
+          "RatingLeftAtt": 12,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 16
+        }
+      ],
+      "PowerRating": 724,
+      "FanclubSize": 1115,
+      "ArenaCapacity": 16331,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 1,
+          "Age": 18,
+          "AgeDays": 107,
+          "TSI": 19590,
+          "Salary": 1370,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 410644
+        },
+		    {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 37,
+          "TSI": 5540,
+          "Salary": 1330,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 8,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1500
+        }
+      ]
+    },
+	  {
+      "Season": 78,
+      "Week": 8,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683088,
+          "MatchType": 1,
+          "TacticType": 7,
+          "TacticSkill": 11,
+          "RatingMidfield": 20,
+          "RatingRightDef": 28,
+          "RatingMidDef": 36,
+          "RatingLeftDef": 21,
+          "RatingRightAtt": 10,
+          "RatingMidAtt": 12,
+          "RatingLeftAtt": 11,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 17
+        },
+		    {
+          "MatchID": 746677288,
+          "MatchType": 4,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 17,
+          "RatingRightDef": 22,
+          "RatingMidDef": 24,
+          "RatingLeftDef": 25,
+          "RatingRightAtt": 11,
+          "RatingMidAtt": 9,
+          "RatingLeftAtt": 11,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 18,
+          "RatingIndirectSetPiecesAtt": 14
+        }
+      ],
+      "PowerRating": 724,
+      "FanclubSize": 1127,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 1,
+          "Age": 19,
+          "AgeDays": 2,
+          "TSI": 21140,
+          "Salary": 5070,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 857002
+        },
+		    {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 44,
+          "TSI": 6520,
+          "Salary": 1330,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 8,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1500
+        }
+      ]
+    },
+	  {
+      "Season": 78,
+      "Week": 9,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683092,
+          "MatchType": 1,
+          "TacticType": 7,
+          "TacticSkill": 11,
+          "RatingMidfield": 20,
+          "RatingRightDef": 23,
+          "RatingMidDef": 22,
+          "RatingLeftDef": 21,
+          "RatingRightAtt": 12,
+          "RatingMidAtt": 16,
+          "RatingLeftAtt": 24,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 18
+        },
+		    {
+          "MatchID": 746756411,
+          "MatchType": 4,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 17,
+          "RatingRightDef": 27,
+          "RatingMidDef": 32,
+          "RatingLeftDef": 29,
+          "RatingRightAtt": 13,
+          "RatingMidAtt": 9,
+          "RatingLeftAtt": 10,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 16
+        }
+      ],
+      "PowerRating": 719,
+      "FanclubSize": 1139,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 1,
+          "Age": 19,
+          "AgeDays": 9,
+          "TSI": 22020,
+          "Salary": 5070,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 857002
+        },
+		    {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 51,
+          "TSI": 8030,
+          "Salary": 1330,
+          "PlayerForm": 7,
+          "Experience": 1,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 8,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1500
+        }
+      ]
+    },
+    {
+      "Season": 78,
+      "Week": 10,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683109,
+          "MatchType": 1,
+          "TacticType": 7,
+          "TacticSkill": 11,
+          "RatingMidfield": 19,
+          "RatingRightDef": 20,
+          "RatingMidDef": 28,
+          "RatingLeftDef": 27,
+          "RatingRightAtt": 6,
+          "RatingMidAtt": 10,
+          "RatingLeftAtt": 18,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 19
+        },
+        {
+          "MatchID": 746838828,
+          "MatchType": 4,
+          "TacticType": 1,
+          "TacticSkill": 6,
+          "RatingMidfield": 14,
+          "RatingRightDef": 27,
+          "RatingMidDef": 26,
+          "RatingLeftDef": 24,
+          "RatingRightAtt": 8,
+          "RatingMidAtt": 4,
+          "RatingLeftAtt": 8,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 18,
+          "RatingIndirectSetPiecesAtt": 15
+        }
+      ],
+      "PowerRating": 714,
+      "FanclubSize": 1157,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 9,
+          "TSI": 3450,
+          "Salary": 1270,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 4,
+          "KeeperSkill": 7,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 5000
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 58,
+          "TSI": 8120,
+          "Salary": 1330,
+          "PlayerForm": 5,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 9,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 260684
+        },
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 21,
+          "Age": 19,
+          "AgeDays": 16,
+          "TSI": 24040,
+          "Salary": 5070,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 857002
+        }
+      ]
+    },
+    {
+      "Season": 78,
+      "Week": 11,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683099,
+          "MatchType": 1,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 17,
+          "RatingRightDef": 25,
+          "RatingMidDef": 31,
+          "RatingLeftDef": 31,
+          "RatingRightAtt": 24,
+          "RatingMidAtt": 12,
+          "RatingLeftAtt": 11,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 18
+        },
+        {
+          "MatchID": 746919207,
+          "MatchType": 4,
+          "TacticType": 1,
+          "TacticSkill": 6,
+          "RatingMidfield": 13,
+          "RatingRightDef": 28,
+          "RatingMidDef": 31,
+          "RatingLeftDef": 27,
+          "RatingRightAtt": 5,
+          "RatingMidAtt": 2,
+          "RatingLeftAtt": 5,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 19,
+          "RatingIndirectSetPiecesAtt": 13
+        }
+      ],
+      "PowerRating": 712,
+      "FanclubSize": 1165,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 16,
+          "TSI": 4270,
+          "Salary": 1270,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 7,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 5000
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 65,
+          "TSI": 8280,
+          "Salary": 1330,
+          "PlayerForm": 4,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 9,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 260684
+        },
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 21,
+          "Age": 19,
+          "AgeDays": 23,
+          "TSI": 24400,
+          "Salary": 5070,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 857002
+        }
+      ]
+    },
+    {
+      "Season": 78,
+      "Week": 12,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683103,
+          "MatchType": 1,
+          "TacticType": 4,
+          "TacticSkill": 11,
+          "RatingMidfield": 24,
+          "RatingRightDef": 21,
+          "RatingMidDef": 17,
+          "RatingLeftDef": 16,
+          "RatingRightAtt": 25,
+          "RatingMidAtt": 17,
+          "RatingLeftAtt": 14,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 19,
+          "RatingIndirectSetPiecesAtt": 19
+        },
+        {
+          "MatchID": 746995813,
+          "MatchType": 4,
+          "TacticType": 1,
+          "TacticSkill": 7,
+          "RatingMidfield": 11,
+          "RatingRightDef": 33,
+          "RatingMidDef": 37,
+          "RatingLeftDef": 29,
+          "RatingRightAtt": 11,
+          "RatingMidAtt": 6,
+          "RatingLeftAtt": 10,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 22,
+          "RatingIndirectSetPiecesAtt": 17
+        }
+      ],
+      "PowerRating": 714,
+      "FanclubSize": 1181,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 23,
+          "TSI": 5230,
+          "Salary": 1270,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 8,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 5000
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 72,
+          "TSI": 8430,
+          "Salary": 1330,
+          "PlayerForm": 4,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 9,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 247754
+        },
+        {
+          "PlayerID": 487367874,
+          "PlayerNumber": 21,
+          "Age": 19,
+          "AgeDays": 30,
+          "TSI": 22330,
+          "Salary": 5070,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 12,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 2,
+          "PassingSkill": 2,
+          "WingerSkill": 2,
+          "DefenderSkill": 2,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1131000
+        }
+      ]
+    },
+    {
+        "Season": 78,
+        "Week": 13,
+        "League": {
+          "LeagueLevelUnitID": 15042,
+          "LeagueLevelUnitName": "VI.724"
+        },
+        "Training": {
+          "TrainingLevel": 100,
+          "TrainingType": 9,
+          "StaminaTrainingPart": 10
+        },
+        "Matches": [
+          {
+            "MatchID": 743683108,
+            "MatchType": 1,
+            "TacticType": 0,
+            "TacticSkill": 0,
+            "RatingMidfield": 29,
+            "RatingRightDef": 18,
+            "RatingMidDef": 22,
+            "RatingLeftDef": 22,
+            "RatingRightAtt": 12,
+            "RatingMidAtt": 17,
+            "RatingLeftAtt": 27,
+            "TeamAttitude": 1,
+            "RatingIndirectSetPiecesDef": 20,
+            "RatingIndirectSetPiecesAtt": 19
+          },
+          {
+            "MatchID": 747091452,
+            "MatchType": 4,
+            "TacticType": 0,
+            "TacticSkill": 0,
+            "RatingMidfield": 12,
+            "RatingRightDef": 26,
+            "RatingMidDef": 31,
+            "RatingLeftDef": 28,
+            "RatingRightAtt": 15,
+            "RatingMidAtt": 12,
+            "RatingLeftAtt": 13,
+            "TeamAttitude": 0,
+            "RatingIndirectSetPiecesDef": 22,
+            "RatingIndirectSetPiecesAtt": 18
+          }
+        ],
+        "PowerRating": 714,
+        "FanclubSize": 1203,
+        "ArenaCapacity": 25000,
+        "StaffList": {
+          "Trainer": {
+            "TrainerId": 260969844,
+            "Name": "Mohsen Emami",
+            "Age": 57,
+            "AgeDays": 76,
+            "TrainerType": 2,
+            "Leadership": 5,
+            "TrainerSkillLevel": 4
+          },
+          "StaffMembers": [
+            {
+              "Name": "Aser Calero",
+              "StaffId": 2477834,
+              "StaffType": 1,
+              "StaffLevel": 5
+            },
+            {
+              "Name": "Adrián Imbullusqueta",
+              "StaffId": 2477919,
+              "StaffType": 1,
+              "StaffLevel": 5
+            },
+            {
+              "Name": "Javier Marqués",
+              "StaffId": 2596354,
+              "StaffType": 2,
+              "StaffLevel": 4
+            }
+          ]
+        },
+        "PlayerData": [
+          {
+            "PlayerID": 490791154,
+            "PlayerNumber": 1,
+            "Age": 17,
+            "AgeDays": 30,
+            "TSI": 6030,
+            "Salary": 1270,
+            "PlayerForm": 6,
+            "Experience": 1,
+            "Leadership": 5,
+            "Loyalty": 20,
+            "Cards": 0,
+            "InjuryLevel": -1,
+            "StaminaSkill": 5,
+            "KeeperSkill": 8,
+            "PlaymakerSkill": 1,
+            "ScorerSkill": 1,
+            "PassingSkill": 2,
+            "WingerSkill": 1,
+            "DefenderSkill": 5,
+            "SetPiecesSkill": 5,
+            "PlayerCategoryId": 1,
+            "EstimatedValue": 5000
+          },
+          {
+            "PlayerID": 490343384,
+            "PlayerNumber": 13,
+            "Age": 17,
+            "AgeDays": 79,
+            "TSI": 8800,
+            "Salary": 1330,
+            "PlayerForm": 3,
+            "Experience": 2,
+            "Leadership": 3,
+            "Loyalty": 20,
+            "Cards": 0,
+            "InjuryLevel": -1,
+            "StaminaSkill": 5,
+            "KeeperSkill": 10,
+            "PlaymakerSkill": 2,
+            "ScorerSkill": 1,
+            "PassingSkill": 1,
+            "WingerSkill": 2,
+            "DefenderSkill": 3,
+            "SetPiecesSkill": 2,
+            "PlayerCategoryId": 1,
+            "EstimatedValue": 247754
+          }
+        ]
+    },
+    {
+      "Season": 78,
+      "Week": 14,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 743683111,
+          "MatchType": 1,
+          "TacticType": 2,
+          "TacticSkill": 12,
+          "RatingMidfield": 10,
+          "RatingRightDef": 28,
+          "RatingMidDef": 43,
+          "RatingLeftDef": 32,
+          "RatingRightAtt": 23,
+          "RatingMidAtt": 14,
+          "RatingLeftAtt": 8,
+          "TeamAttitude": 1,
+          "RatingIndirectSetPiecesDef": 24,
+          "RatingIndirectSetPiecesAtt": 21
+        },
+        {
+          "MatchID": 747154350,
+          "MatchType": 4,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 13,
+          "RatingRightDef": 23,
+          "RatingMidDef": 29,
+          "RatingLeftDef": 24,
+          "RatingRightAtt": 13,
+          "RatingMidAtt": 11,
+          "RatingLeftAtt": 10,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 18,
+          "RatingIndirectSetPiecesAtt": 16
+        }
+      ],
+      "PowerRating": 719,
+      "FanclubSize": 1217,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 37,
+          "TSI": 7170,
+          "Salary": 1270,
+          "PlayerForm": 6,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 8,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 5000
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 86,
+          "TSI": 10920,
+          "Salary": 1330,
+          "PlayerForm": 4,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 10,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 247754
+        }
+      ]
+    },
+    {
+      "Season": 78,
+      "Week": 15,
+      "League": {
+        "LeagueLevelUnitID": 15042,
+        "LeagueLevelUnitName": "VI.724"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 747256921,
+          "MatchType": 4,
+          "TacticType": 2,
+          "TacticSkill": 12,
+          "RatingMidfield": 13,
+          "RatingRightDef": 29,
+          "RatingMidDef": 36,
+          "RatingLeftDef": 30,
+          "RatingRightAtt": 15,
+          "RatingMidAtt": 12,
+          "RatingLeftAtt": 12,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 26,
+          "RatingIndirectSetPiecesAtt": 18
+        },
+        {
+          "MatchID": 747314285,
+          "MatchType": 4,
+          "TacticType": 2,
+          "TacticSkill": 8,
+          "RatingMidfield": 12,
+          "RatingRightDef": 28,
+          "RatingMidDef": 33,
+          "RatingLeftDef": 27,
+          "RatingRightAtt": 18,
+          "RatingMidAtt": 17,
+          "RatingLeftAtt": 16,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 20
+        }
+      ],
+      "PowerRating": 719,
+      "FanclubSize": 1229,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Javier Marqués",
+            "StaffId": 2596354,
+            "StaffType": 2,
+            "StaffLevel": 4
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 44,
+          "TSI": 8800,
+          "Salary": 1270,
+          "PlayerForm": 7,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 9,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 5000
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 93,
+          "TSI": 12790,
+          "Salary": 1330,
+          "PlayerForm": 5,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 10,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 247754
+        }
+      ]
+    },
+    {
+      "Season": 78,
+      "Week": 16,
+      "League": {
+        "LeagueLevelUnitID": 38874,
+        "LeagueLevelUnitName": "VII.838"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 747393170,
+          "MatchType": 4,
+          "TacticType": 2,
+          "TacticSkill": 8,
+          "RatingMidfield": 15,
+          "RatingRightDef": 28,
+          "RatingMidDef": 34,
+          "RatingLeftDef": 28,
+          "RatingRightAtt": 17,
+          "RatingMidAtt": 13,
+          "RatingLeftAtt": 14,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 19
+        },
+        {
+          "MatchID": 747512059,
+          "MatchType": 3,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 16,
+          "RatingRightDef": 26,
+          "RatingMidDef": 28,
+          "RatingLeftDef": 31,
+          "RatingRightAtt": 21,
+          "RatingMidAtt": 20,
+          "RatingLeftAtt": 17,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 18
+        }
+      ],
+      "PowerRating": 719,
+      "FanclubSize": 1116,
+      "ArenaCapacity": 25000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Pedro César Ruiz",
+            "StaffId": 2511552,
+            "StaffType": 2,
+            "StaffLevel": 5
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 51,
+          "TSI": 10410,
+          "Salary": 1270,
+          "PlayerForm": 7,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 9,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 899538
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 100,
+          "TSI": 15240,
+          "Salary": 1330,
+          "PlayerForm": 5,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 10,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 472286
+        }
+      ]
+    },
+    {
+      "Season": 79,
+      "Week": 1,
+      "League": {
+        "LeagueLevelUnitID": 38874,
+        "LeagueLevelUnitName": "VII.838"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 748265272,
+          "MatchType": 1,
+          "TacticType": 3,
+          "TacticSkill": 10,
+          "RatingMidfield": 9,
+          "RatingRightDef": 17,
+          "RatingMidDef": 23,
+          "RatingLeftDef": 20,
+          "RatingRightAtt": 9,
+          "RatingMidAtt": 10,
+          "RatingLeftAtt": 12,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 22,
+          "RatingIndirectSetPiecesAtt": 17
+        },
+        {
+          "MatchID": 750390073,
+          "MatchType": 3,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 20,
+          "RatingRightDef": 27,
+          "RatingMidDef": 30,
+          "RatingLeftDef": 32,
+          "RatingRightAtt": 18,
+          "RatingMidAtt": 23,
+          "RatingLeftAtt": 20,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 22,
+          "RatingIndirectSetPiecesAtt": 19
+        }
+      ],
+      "PowerRating": 719,
+      "FanclubSize": 1128,
+      "ArenaCapacity": 30000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Pedro César Ruiz",
+            "StaffId": 2511552,
+            "StaffType": 2,
+            "StaffLevel": 5
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 58,
+          "TSI": 11870,
+          "Salary": 1270,
+          "PlayerForm": 8,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 9,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 899538
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 17,
+          "AgeDays": 107,
+          "TSI": 17410,
+          "Salary": 1330,
+          "PlayerForm": 6,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 472286
+        }
+      ]
+    },
+    {
+      "Season": 79,
+      "Week": 2,
+      "League": {
+        "LeagueLevelUnitID": 38874,
+        "LeagueLevelUnitName": "VII.838"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 748265276,
+          "MatchType": 1,
+          "TacticType": 3,
+          "TacticSkill": 10,
+          "RatingMidfield": 9,
+          "RatingRightDef": 17,
+          "RatingMidDef": 23,
+          "RatingLeftDef": 20,
+          "RatingRightAtt": 9,
+          "RatingMidAtt": 10,
+          "RatingLeftAtt": 12,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 22,
+          "RatingIndirectSetPiecesAtt": 17
+        },
+        {
+          "MatchID": 750560432,
+          "MatchType": 3,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 20,
+          "RatingRightDef": 27,
+          "RatingMidDef": 30,
+          "RatingLeftDef": 32,
+          "RatingRightAtt": 18,
+          "RatingMidAtt": 23,
+          "RatingLeftAtt": 20,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 22,
+          "RatingIndirectSetPiecesAtt": 19
+        }
+      ],
+      "PowerRating": 717,
+      "FanclubSize": 1146,
+      "ArenaCapacity": 30000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Pedro César Ruiz",
+            "StaffId": 2511552,
+            "StaffType": 2,
+            "StaffLevel": 5
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 65,
+          "TSI": 12360,
+          "Salary": 1270,
+          "PlayerForm": 7,
+          "Experience": 1,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 10,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 899538
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 18,
+          "AgeDays": 2,
+          "TSI": 19380,
+          "Salary": 4930,
+          "PlayerForm": 6,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": 1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 690942
+        }
+      ]
+    }
+  ],
+  "PlayerList": [
+    {
+      "PlayerID": 490791154,
+      "FirstName": "Kasildo",
+      "NickName": "",
+      "LastName": "Maisterra",
+      "MotherClubBonus": true,
+      "IsAbroad": false,
+      "Agreeability": 1,
+      "Aggressiveness": 3,
+      "Honesty": 1,
+      "SpecialtyID": 0,
+      "CountryID": 36
+    },
+	  {
+      "PlayerID": 490343384,
+      "FirstName": "Fortià",
+      "NickName": "",
+      "LastName": "Ull",
+      "MotherClubBonus": true,
+      "IsAbroad": false,
+      "Agreeability": 2,
+      "Aggressiveness": 3,
+      "Honesty": 2,
+      "SpecialtyID": 0,
+      "CountryID": 36
+    },
+    {
+      "PlayerID": 487367874,
+      "FirstName": "Antonio",
+      "NickName": "",
+      "LastName": "Zubieta",
+      "MotherClubBonus": true,
+      "IsAbroad": false,
+      "Agreeability": 2,
+      "Aggressiveness": 1,
+      "Honesty": 2,
+      "SpecialtyID": 0,
+      "CountryID": 36
+    }
+  ]
+}
