@@ -3107,16 +3107,16 @@
           "MatchType": 9,
           "TacticType": 1,
           "TacticSkill": 7,
-          "RatingMidfield": 8,
-          "RatingRightDef": 19,
-          "RatingMidDef": 24,
+          "RatingMidfield": 7,
+          "RatingRightDef": 17,
+          "RatingMidDef": 23,
           "RatingLeftDef": 20,
-          "RatingRightAtt": 7,
-          "RatingMidAtt": 6,
+          "RatingRightAtt": 6,
+          "RatingMidAtt": 5,
           "RatingLeftAtt": 6,
           "TeamAttitude": 0,
-          "RatingIndirectSetPiecesDef": 14,
-          "RatingIndirectSetPiecesAtt": 12
+          "RatingIndirectSetPiecesDef": 12,
+          "RatingIndirectSetPiecesAtt": 9
         }
       ],
       "PowerRating": 638,
