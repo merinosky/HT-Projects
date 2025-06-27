@@ -2564,6 +2564,137 @@
           "EstimatedValue": 1167407
         }
       ]
+    },
+    {
+      "Season": 79,
+      "Week": 8,
+      "League": {
+        "LeagueLevelUnitID": 38874,
+        "LeagueLevelUnitName": "VII.838"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 748265303,
+          "MatchType": 1,
+          "TacticType": 1,
+          "TacticSkill": 6,
+          "RatingMidfield": 7,
+          "RatingRightDef": 29,
+          "RatingMidDef": 28,
+          "RatingLeftDef": 28,
+          "RatingRightAtt": 12,
+          "RatingMidAtt": 6,
+          "RatingLeftAtt": 8,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 12
+        },
+        {
+          "MatchID": 751146859,
+          "MatchType": 4,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 22,
+          "RatingRightDef": 27,
+          "RatingMidDef": 24,
+          "RatingLeftDef": 23,
+          "RatingRightAtt": 19,
+          "RatingMidAtt": 23,
+          "RatingLeftAtt": 25,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 20,
+          "RatingIndirectSetPiecesAtt": 21
+        }
+      ],
+      "PowerRating": 749,
+      "FanclubSize": 1212,
+      "ArenaCapacity": 41000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 260969844,
+          "Name": "Mohsen Emami",
+          "Age": 57,
+          "AgeDays": 76,
+          "TrainerType": 2,
+          "Leadership": 5,
+          "TrainerSkillLevel": 4
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Pedro César Ruiz",
+            "StaffId": 2511552,
+            "StaffType": 2,
+            "StaffLevel": 5
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 17,
+          "AgeDays": 107,
+          "TSI": 19140,
+          "Salary": 1270,
+          "PlayerForm": 6,
+          "Experience": 2,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 5,
+          "KeeperSkill": 11,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1234158
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 18,
+          "AgeDays": 44,
+          "TSI": 29550,
+          "Salary": 4930,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 12,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1167407
+        }
+      ]
     }
   ],
   "PlayerList": [
