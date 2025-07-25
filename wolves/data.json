@@ -5775,7 +5775,7 @@
           "TSI": 21290,
           "Salary": 7116,
           "PlayerForm": 7,
-          "Experience": 2,
+          "Experience": 3,
           "Leadership": 5,
           "Loyalty": 17,
           "Cards": 0,
@@ -5789,7 +5789,7 @@
           "DefenderSkill": 8,
           "SetPiecesSkill": 1,
           "PlayerCategoryId": 1,
-          "EstimatedValue": 1180910
+          "EstimatedValue": 1342650
         },
         {
           "PlayerID": 491047431,
