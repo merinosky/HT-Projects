@@ -5786,7 +5786,7 @@
           "ScorerSkill": 1,
           "PassingSkill": 1,
           "WingerSkill": 1,
-          "DefenderSkill": 7,
+          "DefenderSkill": 8,
           "SetPiecesSkill": 1,
           "PlayerCategoryId": 1,
           "EstimatedValue": 1180910
