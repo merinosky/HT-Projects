@@ -6481,13 +6481,13 @@
       "ArenaCapacity": 28859,
       "StaffList": {
         "Trainer": {
-          "TrainerId": 442557848,
-          "Name": "Luboš Klouda",
+          "TrainerId": 423989644,
+          "Name": "Greg Taylor",
           "Age": 45,
-          "AgeDays": 7,
-          "TrainerType": 2,
-          "Leadership": 3,
-          "TrainerSkillLevel": 4
+          "AgeDays": 94,
+          "TrainerType": 1,
+          "Leadership": 6,
+          "TrainerSkillLevel": 5
         },
         "StaffMembers": [
           {
