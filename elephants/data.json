@@ -5,7 +5,7 @@
   },
   "WeeklyData": [
     {
-      "Season": 1,
+      "Season": 2,
       "Week": 1,
       "League": {
         "LeagueLevelUnitID": 268560,
@@ -82,7 +82,7 @@
             "Name": "William Balboa",
             "StaffId": 2687518,
             "StaffType": 2,
-            "StaffLevel": 3
+            "StaffLevel": 5
           }
         ]
       },
