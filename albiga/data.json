@@ -3638,7 +3638,7 @@
           "RatingRightAtt": 14,
           "RatingMidAtt": 9,
           "RatingLeftAtt": 10,
-          "TeamAttitude": -1,
+          "TeamAttitude": 0,
           "RatingIndirectSetPiecesDef": 21,
           "RatingIndirectSetPiecesAtt": 15
         },
