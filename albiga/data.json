@@ -4136,6 +4136,137 @@
           "EstimatedValue": 2013500
         }
       ]
+    },
+    {
+      "Season": 80,
+      "Week": 4,
+      "League": {
+        "LeagueLevelUnitID": 38874,
+        "LeagueLevelUnitName": "VII.838"
+      },
+      "Training": {
+        "TrainingLevel": 100,
+        "TrainingType": 9,
+        "StaminaTrainingPart": 10
+      },
+      "Matches": [
+        {
+          "MatchID": 752747661,
+          "MatchType": 1,
+          "TacticType": 0,
+          "TacticSkill": 0,
+          "RatingMidfield": 19,
+          "RatingRightDef": 24,
+          "RatingMidDef": 27,
+          "RatingLeftDef": 30,
+          "RatingRightAtt": 18,
+          "RatingMidAtt": 16,
+          "RatingLeftAtt": 24,
+          "TeamAttitude": -1,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 19
+        },
+        {
+          "MatchID": 755748763,
+          "MatchType": 3,
+          "TacticType": 4,
+          "TacticSkill": 12,
+          "RatingMidfield": 24,
+          "RatingRightDef": 28,
+          "RatingMidDef": 22,
+          "RatingLeftDef": 27,
+          "RatingRightAtt": 23,
+          "RatingMidAtt": 27,
+          "RatingLeftAtt": 31,
+          "TeamAttitude": 0,
+          "RatingIndirectSetPiecesDef": 21,
+          "RatingIndirectSetPiecesAtt": 20
+        }
+      ],
+      "PowerRating": 698,
+      "FanclubSize": 1358,
+      "ArenaCapacity": 41000,
+      "StaffList": {
+        "Trainer": {
+          "TrainerId": 440341719,
+          "Name": "Johnny 'Sorpresa' Buch",
+          "Age": 38,
+          "AgeDays": 103,
+          "TrainerType": 1,
+          "Leadership": 6,
+          "TrainerSkillLevel": 5
+        },
+        "StaffMembers": [
+          {
+            "Name": "Aser Calero",
+            "StaffId": 2477834,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Adrián Imbullusqueta",
+            "StaffId": 2477919,
+            "StaffType": 1,
+            "StaffLevel": 5
+          },
+          {
+            "Name": "Pedro César Ruiz",
+            "StaffId": 2511552,
+            "StaffType": 2,
+            "StaffLevel": 5
+          }
+        ]
+      },
+      "PlayerData": [
+        {
+          "PlayerID": 490791154,
+          "PlayerNumber": 1,
+          "Age": 18,
+          "AgeDays": 79,
+          "TSI": 34570,
+          "Salary": 5730,
+          "PlayerForm": 5,
+          "Experience": 2,
+          "Leadership": 5,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 14,
+          "PlaymakerSkill": 1,
+          "ScorerSkill": 1,
+          "PassingSkill": 2,
+          "WingerSkill": 1,
+          "DefenderSkill": 5,
+          "SetPiecesSkill": 5,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 1994752
+        },
+        {
+          "PlayerID": 490343384,
+          "PlayerNumber": 13,
+          "Age": 19,
+          "AgeDays": 16,
+          "TSI": 50690,
+          "Salary": 14670,
+          "PlayerForm": 7,
+          "Experience": 2,
+          "Leadership": 3,
+          "Loyalty": 20,
+          "Cards": 0,
+          "InjuryLevel": -1,
+          "StaminaSkill": 6,
+          "KeeperSkill": 14,
+          "PlaymakerSkill": 2,
+          "ScorerSkill": 1,
+          "PassingSkill": 1,
+          "WingerSkill": 2,
+          "DefenderSkill": 3,
+          "SetPiecesSkill": 2,
+          "PlayerCategoryId": 1,
+          "EstimatedValue": 2013500
+        }
+      ]
     }
   ],
   "PlayerList": [
